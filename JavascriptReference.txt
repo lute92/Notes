@@ -1,0 +1,30 @@
+Javascript 
+================
+
+Error Handling
+*************
+https://www.sitepoint.com/proper-error-handling-javascript/
+https://hackernoon.com/promises-and-error-handling-4a11af37cb0e
+http://odetocode.com/blogs/scott/archive/2015/10/01/javascript-promises-and-error-handling.aspx
+https://dev.to/azizhk110/javascript-promise-chaining--error-handling
+http://2ality.com/2016/03/promise-rejections-vs-exceptions.html
+
+
+Mocha
+*************
+https://mochajs.org/
+
+http://callmenick.com/post/basic-front-end-testing-with-mocha-chai 
+http://blog.bguiz.com/2016/03/08/unit-integration-test-frontend-javascript/
+
+
+Webpack
+*************
+
+https://webpack.github.io/docs/configuration.html
+
+JsDOM (DOM Testing FW)
+==========
+https://github.com/tmpvar/jsdom
+
+http://www.pauleveritt.org/articles/pylyglot/jsdom/	
